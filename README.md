@@ -30,6 +30,7 @@ Elden Ring Optimized (ERO) - это фикс для Elden Ring, который �
 Если вы играете через Seamless Co-op то фикс автоматически сам запустит игру через Seamless Co-op.
 
 SPANISH
+
 Elden Ring Optimized (ERO) - es una modificación para Elden Ring que ajusta los parámetros del juego para mejorar el rendimiento. El script detecta automáticamente la configuración de tu procesador y aplica los ajustes óptimos. Los FPS se vuelven más estables y se eliminan los tirones. La modificación funciona en cualquier versión del juego.
 
 Instalación en una versión no Steam:
@@ -43,6 +44,7 @@ Seamless Co-op:
 Si juegas en Seamless Co-op sin interrupciones, la modificación lo iniciará automáticamente.
 
 JAPANSE
+
 Elden Ring Optimized (ERO) - は、Elden Ring のゲームパラメータを調整してパフォーマンスを向上させる修正プログラムです。スクリプトはプロセッサ構成を自動検出し、最適な設定を適用します。FPS が安定し、カクツキが解消されます。この修正プログラムは、ゲームのどのバージョンでも動作します。
 
 Steam 非対応版へのインストール：
