@@ -1,7 +1,7 @@
-# ERO
+# **ERO**
 ELDEN RING Optimized
 
-ENGLISH
+### **ENGLISH**
 
 Elden Ring Optimized (ERO) is a fix for Elden Ring that adjusts game parameters to improve performance. The script automatically detects your processor configuration and applies optimal settings. FPS becomes more stable and stuttering is eliminated. The fix works on any version of the game.
 
@@ -15,7 +15,7 @@ Example: "D:\Games\ELDEN RING\Game\ERO.bat" %command%
 Launching Seamless Co-op:
 If you're playing via Seamless Co-op, the fix will automatically launch the game via Seamless Co-op.
 
-RUSSIAN
+### **RUSSIAN**
 
 Elden Ring Optimized (ERO) - это фикс для Elden Ring, который настраивает параметры процесса игры для улучшения производительности. Скрипт самостоятельно определяет конфигурацию вашего процессора и применяет оптимальные настройки. FPS становится стабильнее, а также исправляется фризы. Фикс работает на любой версии игры.
 
@@ -29,7 +29,7 @@ Elden Ring Optimized (ERO) - это фикс для Elden Ring, который �
 Запуск Seamless Co-op:
 Если вы играете через Seamless Co-op то фикс автоматически сам запустит игру через Seamless Co-op.
 
-SPANISH
+### **SPANISH**
 
 Elden Ring Optimized (ERO) - es una modificación para Elden Ring que ajusta los parámetros del juego para mejorar el rendimiento. El script detecta automáticamente la configuración de tu procesador y aplica los ajustes óptimos. Los FPS se vuelven más estables y se eliminan los tirones. La modificación funciona en cualquier versión del juego.
 
@@ -43,7 +43,7 @@ Ejemplo: "D:\Games\ELDEN RING\Game\ERO.bat" %command%
 Seamless Co-op:
 Si juegas en Seamless Co-op sin interrupciones, la modificación lo iniciará automáticamente.
 
-JAPANSE
+### **JAPANSE**
 
 Elden Ring Optimized (ERO) - は、Elden Ring のゲームパラメータを調整してパフォーマンスを向上させる修正プログラムです。スクリプトはプロセッサ構成を自動検出し、最適な設定を適用します。FPS が安定し、カクツキが解消されます。この修正プログラムは、ゲームのどのバージョンでも動作します。
 
