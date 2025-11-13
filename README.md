@@ -1,5 +1,4 @@
-# **ERO**
-ELDEN RING Optimized
+# **ERO - ELDEN RING Optimized**
 
 ### **ENGLISH**
 
