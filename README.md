@@ -1,6 +1,9 @@
 # **ERO - ELDEN RING Optimized**
 
+![Uploading Group 19 (1).png…]()
+
 ### **ENGLISH**
+
 
 Elden Ring Optimized (ERO) is a fix for Elden Ring that adjusts game parameters to improve performance. The script automatically detects your processor configuration and applies optimal settings. FPS becomes more stable and stuttering is eliminated. The fix works on any version of the game.
 
