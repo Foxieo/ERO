@@ -343,4 +343,3 @@ Elden Ring Optimized (ERO) 是一个可调整游戏进程设置以提升性能�
 ---
 
 **Note**: This fix works with any version of the game and is compatible with most mods including Seamless Co-op, ELDEN RING Reforged, and Mod Engine 2.
-```
