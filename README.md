@@ -4,11 +4,24 @@
 
 Performance improvement and screen tearing elimination script
 
-## Available Scripts
+## 📁 Available Scripts
 
 - **ERO.bat** - Basic version with Seamless Co-op support
-- **ERO[ERR].bat** - Extended version with ELDEN RING Reforged and Seamless Co-op support
+- **ERO[ERR].bat** - Extended version with ELDEN RING Reforged support
 - **ERO[ME2].bat** - Mod Engine 2 version with single launch file support
+- **ERO[TC].bat** - The Convergence mod version
+
+## 🚀 Quick Start
+
+1. **Choose the right script for your mod:**
+   - **Seamless Co-op** → Use `ERO.bat`
+   - **ELDEN RING Reforged** → Use `ERO[ERR].bat`
+   - **Mod Engine 2** → Use `ERO[ME2].bat`
+   - **The Convergence** → Use `ERO[TC].bat`
+
+2. **Place the script in your game's root folder** (where `eldenring.exe` is located)
+
+3. **Launch the game using the script instead of the normal executable**
 
 ## 🌍 Multi-Language Support
 
@@ -24,21 +37,25 @@ Elden Ring Optimized (ERO) is a script that adjusts the game's process settings 
 - Automatic game detection and optimization
 
 **ERO[ERR].bat:**
-- Supports both ELDEN RING Reforged and Seamless Co-op mods
+- Supports ELDEN RING Reforged mod
 - Automatic game path detection and saving
 - Choice between Online and Offline/Seamless modes
 
 **ERO[ME2].bat:**
 - Optimized for Mod Engine 2
-- Single launch file (launchmod_eldenring.bat) support
+- Single launch file (`launchmod_eldenring.bat`) support
 - Automatic game path detection and saving
-- Simplified interface without mode selection
+
+**ERO[TC].bat:**
+- Optimized for The Convergence mod
+- Single launch file (`Start_Convergence.bat`) support
+- Automatic game path detection and saving
 
 ### Installation
 
 #### For Non-Steam Versions:
-1. Place the .bat file in the game's root folder
-2. Always launch the game using ERO.bat, ERO[ERR].bat or ERO[ME2].bat
+1. Place the appropriate .bat file in the game's root folder
+2. Always launch the game using the ERO script
 
 #### For Steam:
 1. Place the .bat file in the game's root folder
@@ -65,21 +82,25 @@ Elden Ring Optimized (ERO) - это скрипт, который настраи�
 - Автоматическое определение игры и оптимизация
 
 **ERO[ERR].bat:**
-- Поддержка как ELDEN RING Reforged, так и Seamless Co-op модов
+- Поддержка мода ELDEN RING Reforged
 - Автоматическое определение и сохранение пути к игре
 - Выбор между онлайн и офлайн/Seamless режимами
 
 **ERO[ME2].bat:**
 - Оптимизирован для Mod Engine 2
-- Поддержка единого файла запуска (launchmod_eldenring.bat)
+- Поддержка единого файла запуска (`launchmod_eldenring.bat`)
 - Автоматическое определение и сохранение пути к игре
-- Упрощенный интерфейс без выбора режимов
+
+**ERO[TC].bat:**
+- Оптимизирован для мода The Convergence
+- Поддержка единого файла запуска (`Start_Convergence.bat`)
+- Автоматическое определение и сохранение пути к игре
 
 ### Установка
 
 #### Для версии не из Steam:
-1. Поместите .bat файл в корневую папку игры
-2. Запускайте игру только через ERO.bat, ERO[ERR].bat или ERO[ME2].bat
+1. Поместите соответствующий .bat файл в корневую папку игры
+2. Запускайте игру только через ERO скрипт
 
 #### Для Steam:
 1. Поместите .bat файл в корневую папку игры
@@ -106,21 +127,25 @@ Elden Ring Optimized (ERO) es un script que ajusta la configuración del proceso
 - Detección y optimización automática del juego
 
 **ERO[ERR].bat:**
-- Soporte para ambos mods: ELDEN RING Reforged y Seamless Co-op
+- Soporte para el mod ELDEN RING Reforged
 - Detección y guardado automático de la ruta del juego
 - Elección entre modos Online y Offline/Seamless
 
 **ERO[ME2].bat:**
 - Optimizado para Mod Engine 2
-- Soporte para archivo de lanzamiento único (launchmod_eldenring.bat)
+- Soporte para archivo de lanzamiento único (`launchmod_eldenring.bat`)
 - Detección y guardado automático de la ruta del juego
-- Interfaz simplificada sin selección de modos
+
+**ERO[TC].bat:**
+- Optimizado para el mod The Convergence
+- Soporte para archivo de lanzamiento único (`Start_Convergence.bat`)
+- Detección y guardado automático de la ruta del juego
 
 ### Instalación
 
 #### Para versiones no de Steam:
-1. Coloca el archivo .bat en la carpeta raíz del juego
-2. Inicia el juego solo mediante ERO.bat, ERO[ERR].bat o ERO[ME2].bat
+1. Coloca el archivo .bat apropiado en la carpeta raíz del juego
+2. Inicia el juego solo mediante el script ERO
 
 #### Para Steam:
 1. Coloca el archivo .bat en la carpeta raíz del juego
@@ -147,21 +172,25 @@ Elden Ring Optimized (ERO) è uno script che regola le impostazioni del processo
 - Rilevamento e ottimizzazione automatica del gioco
 
 **ERO[ERR].bat:**
-- Supporto per entrambi i mod: ELDEN RING Reforged e Seamless Co-op
+- Supporto per il mod ELDEN RING Reforged
 - Rilevamento e salvataggio automatico del percorso di gioco
 - Scelta tra modalità Online e Offline/Seamless
 
 **ERO[ME2].bat:**
 - Ottimizzato per Mod Engine 2
-- Supporto per file di avvio singolo (launchmod_eldenring.bat)
+- Supporto per file di avvio singolo (`launchmod_eldenring.bat`)
 - Rilevamento e salvataggio automatico del percorso di gioco
-- Interfaccia semplificata senza selezione della modalità
+
+**ERO[TC].bat:**
+- Ottimizzato per il mod The Convergence
+- Supporto per file di avvio singolo (`Start_Convergence.bat`)
+- Rilevamento e salvataggio automatico del percorso di gioco
 
 ### Installazione
 
 #### Per versioni non Steam:
-1. Inserisci il file .bat nella cartella principale del gioco
-2. Avvia il gioco solo tramite ERO.bat, ERO[ERR].bat o ERO[ME2].bat
+1. Inserisci il file .bat appropriato nella cartella principale del gioco
+2. Avvia il gioco solo tramite lo script ERO
 
 #### Per Steam:
 1. Inserisci il file .bat nella cartella principale del gioco
@@ -188,21 +217,25 @@ Elden Ring Optimized (ERO) é um script que ajusta as configurações do process
 - Detecção e otimização automática do jogo
 
 **ERO[ERR].bat:**
-- Suporte para ELDEN RING Reforged e Seamless Co-op mod
+- Suporte para o mod ELDEN RING Reforged
 - Detecção e salvamento automático do caminho do jogo
 - Escolha entre modos Online e Offline/Seamless
 
 **ERO[ME2].bat:**
 - Otimizado para Mod Engine 2
-- Suporte a arquivo único de inicialização (launchmod_eldenring.bat)
+- Suporte a arquivo único de inicialização (`launchmod_eldenring.bat`)
 - Detecção e salvamento automático do caminho do jogo
-- Interface simplificada sem seleção de modos
+
+**ERO[TC].bat:**
+- Otimizado para o mod The Convergence
+- Suporte a arquivo único de inicialização (`Start_Convergence.bat`)
+- Detecção e salvamento automático do caminho do jogo
 
 ### Instalação
 
 #### Para versões não Steam:
-1. Coloque o arquivo .bat na pasta raiz do jogo
-2. Inicie o jogo apenas via ERO.bat, ERO[ERR].bat ou ERO[ME2].bat
+1. Coloque o arquivo .bat apropriado na pasta raiz do jogo
+2. Inicie o jogo apenas via script ERO
 
 #### Para Steam:
 1. Coloque o arquivo .bat na pasta raiz do jogo
@@ -229,21 +262,25 @@ Elden Ring Optimized (ERO) ist ein Skript, das die Prozesseinstellungen des Spie
 - Automatische Spieleerkennung und Optimierung
 
 **ERO[ERR].bat:**
-- Unterstützt sowohl ELDEN RING Reforged als auch Seamless Co-op Mods
+- Unterstützt ELDEN RING Reforged Mod
 - Automatische Spielpfaderkennung und Speicherung
 - Wahl zwischen Online und Offline/Seamless Modi
 
 **ERO[ME2].bat:**
 - Optimiert für Mod Engine 2
-- Unterstützung für einzelne Startdatei (launchmod_eldenring.bat)
+- Unterstützung für einzelne Startdatei (`launchmod_eldenring.bat`)
 - Automatische Spielpfaderkennung und Speicherung
-- Vereinfachte Oberfläche ohne Modusauswahl
+
+**ERO[TC].bat:**
+- Optimiert für The Convergence Mod
+- Unterstützung für einzelne Startdatei (`Start_Convergence.bat`)
+- Automatische Spielpfaderkennung und Speicherung
 
 ### Installation
 
 #### Für Nicht-Steam Versionen:
-1. Platziere die .bat-Datei im Stammordner des Spiels
-2. Starte das Spiel immer über ERO.bat, ERO[ERR].bat oder ERO[ME2].bat
+1. Platziere die entsprechende .bat-Datei im Stammordner des Spiels
+2. Starte das Spiel immer über das ERO-Skript
 
 #### Für Steam:
 1. Platziere die .bat-Datei im Stammordner des Spiels
@@ -270,21 +307,25 @@ Elden Ring Optimized (ERO) は、ゲームのパフォーマンスを向上さ�
 - ゲームの自動検出と最適化
 
 **ERO[ERR].bat:**
-- ELDEN RING Reforged と Seamless Co-op mod の両方をサポート
+- ELDEN RING Reforged mod をサポート
 - ゲームパスの自動検出と保存
 - オンラインとオフライン/Seamless モードの選択
 
 **ERO[ME2].bat:**
 - Mod Engine 2 用に最適化
-- 単一起動ファイル (launchmod_eldenring.bat) をサポート
+- 単一起動ファイル (`launchmod_eldenring.bat`) をサポート
 - ゲームパスの自動検出と保存
-- モード選択なしの簡素化されたインターフェース
+
+**ERO[TC].bat:**
+- The Convergence mod 用に最適化
+- 単一起動ファイル (`Start_Convergence.bat`) をサポート
+- ゲームパスの自動検出と保存
 
 ### インストール方法
 
 #### Steam以外のバージョンの場合：
-1. .batファイルをゲームのルートフォルダに置きます
-2. ERO.bat、ERO[ERR].bat または ERO[ME2].bat 経由でのみゲームを起動してください
+1. 適切な.batファイルをゲームのルートフォルダに置きます
+2. EROスクリプト経由でのみゲームを起動してください
 
 #### Steamの場合：
 1. .batファイルをゲームのルートフォルダに置きます
@@ -311,21 +352,25 @@ Elden Ring Optimized (ERO) 是一个可调整游戏进程设置以提升性能�
 - 自动游戏检测和优化
 
 **ERO[ERR].bat:**
-- 同时支持 ELDEN RING Reforged 和 Seamless Co-op 模组
+- 支持 ELDEN RING Reforged 模组
 - 自动游戏路径检测和保存
 - 在线和离线/Seamless 模式选择
 
 **ERO[ME2].bat:**
 - 针对 Mod Engine 2 优化
-- 支持单启动文件 (launchmod_eldenring.bat)
+- 支持单启动文件 (`launchmod_eldenring.bat`)
 - 自动游戏路径检测和保存
-- 简化界面，无需模式选择
+
+**ERO[TC].bat:**
+- 针对 The Convergence 模组优化
+- 支持单启动文件 (`Start_Convergence.bat`)
+- 自动游戏路径检测和保存
 
 ### 安装方法
 
 #### 非 Steam 版本安装方法：
-1. 将 .bat 文件放入游戏的根文件夹
-2. 仅通过 ERO.bat、ERO[ERR].bat 或 ERO[ME2].bat 启动游戏
+1. 将相应的 .bat 文件放入游戏的根文件夹
+2. 仅通过 ERO 脚本启动游戏
 
 #### Steam 版本安装方法：
 1. 将 .bat 文件放入游戏的根文件夹
@@ -342,4 +387,21 @@ Elden Ring Optimized (ERO) 是一个可调整游戏进程设置以提升性能�
 
 ---
 
-**Note**: This fix works with any version of the game and is compatible with most mods including Seamless Co-op, ELDEN RING Reforged, and Mod Engine 2.
+## ⚠️ Compatibility Notes
+
+- Works with any version of ELDEN RING
+- Compatible with most popular mods
+- Each script is tailored for specific mod loaders
+- Choose the script that matches your mod setup
+
+## 🐛 Troubleshooting
+
+If you experience any issues:
+1. Make sure the script is in the correct folder (game root)
+2. Run the script as Administrator
+3. Check that your mod files are properly installed
+4. Ensure the game is fully updated
+
+---
+
+**Note**: This fix works with any version of the game and is compatible with most mods including Seamless Co-op, ELDEN RING Reforged, Mod Engine 2, and The Convergence.
