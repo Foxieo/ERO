@@ -11,28 +11,60 @@ echo.
 echo Starting ELDEN RING...
 timeout /t 1 /nobreak >nul
 
+set launched=0
+set count=0
+
 if exist "ersc_launcher.exe" (
     echo [INFO] Launching via ersc_launcher.exe...
     start "" "ersc_launcher.exe"
+    set launched=1
+    goto wait_for_process
 ) else (
+    echo [INFO] Attempting to launch via Steam...
+    start "" "steam://run/1245620"
+    echo [INFO] Waiting for Steam to launch the game...
+    
+    :check_steam
+    timeout /t 3 /nobreak >nul
+    tasklist | findstr /i "eldenring.exe" >nul
+    if not errorlevel 1 (
+        echo [SUCCESS] ELDEN RING launched via Steam!
+        set launched=1
+        goto wait_for_process
+    )
+    
+    rem If the game doesn't start after 15 seconds, try directly
+    set /a count+=1
+    if %count% lss 5 (
+        echo Waiting for Steam... [%count%/5]
+        goto check_steam
+    )
+    
+    echo [WARNING] Steam launch timed out, trying direct launch...
     if exist "eldenring.exe" (
         echo [INFO] Launching via eldenring.exe...
         start "" "eldenring.exe"
+        set launched=1
+        goto wait_for_process
     ) else (
         echo [ERROR] Neither ersc_launcher.exe nor eldenring.exe found!
+        echo [ERROR] Please make sure ELDEN RING is installed.
         echo.
         pause
         exit
     )
 )
 
-echo [INFO] Waiting for ELDEN RING to start...
-:check
-timeout /t 1 /nobreak >nul
-tasklist | findstr /i "eldenring.exe" >nul
-if errorlevel 1 (
-    echo Waiting for process... 
-    goto check
+:wait_for_process
+if %launched% equ 1 (
+    echo [INFO] Waiting for ELDEN RING to start...
+    :check_process
+    timeout /t 1 /nobreak >nul
+    tasklist | findstr /i "eldenring.exe" >nul
+    if errorlevel 1 (
+        echo Waiting for process... 
+        goto check_process
+    )
 )
 
 echo [SUCCESS] ELDEN RING process detected!
