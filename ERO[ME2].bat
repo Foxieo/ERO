@@ -89,6 +89,5 @@ echo ========================================
 echo        OPTIMIZATION COMPLETE!
 echo ========================================
 echo.
-echo [SUCCESS] ELDEN RING Reforged is now optimized!
 timeout /t 3 /nobreak >nul
 exit
