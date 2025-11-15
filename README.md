@@ -10,6 +10,7 @@ Performance improvement and screen tearing elimination script
 - **ERO[ERR].bat** - Extended version with ELDEN RING Reforged support
 - **ERO[ME2].bat** - Mod Engine 2 version with single launch file support
 - **ERO[TC].bat** - The Convergence mod version
+- **Optimizer.bat** - Applies optimizations to already running game
 
 ## 🚀 Quick Start
 
@@ -18,6 +19,7 @@ Performance improvement and screen tearing elimination script
    - **ELDEN RING Reforged** → Use `ERO[ERR].bat`
    - **Mod Engine 2** → Use `ERO[ME2].bat`
    - **The Convergence** → Use `ERO[TC].bat`
+   - **Already running game** → Use `Optimizer.bat`
 
 2. **Place the script in your game's root folder** (where `eldenring.exe` is located)
 
@@ -50,6 +52,11 @@ Elden Ring Optimized (ERO) is a script that adjusts the game's process settings 
 - Optimized for The Convergence mod
 - Single launch file (`Start_Convergence.bat`) support
 - Automatic game path detection and saving
+
+**Optimizer.bat:**
+- Applies optimizations to Elden Ring
+- Must be launched simultaneously with the game
+- Only optimizes the game, does not launch it
 
 ### Installation
 
@@ -96,6 +103,11 @@ Elden Ring Optimized (ERO) - это скрипт, который настраи�
 - Поддержка единого файла запуска (`Start_Convergence.bat`)
 - Автоматическое определение и сохранение пути к игре
 
+**Optimizer.bat:**
+- Применяет оптимизации к Elden Ring
+- Надо запускать одновременно с игрой
+- Только оптимизирует игру, не запускает
+
 ### Установка
 
 #### Для версии не из Steam:
@@ -140,6 +152,11 @@ Elden Ring Optimized (ERO) es un script que ajusta la configuración del proceso
 - Optimizado para el mod The Convergence
 - Soporte para archivo de lanzamiento único (`Start_Convergence.bat`)
 - Detección y guardado automático de la ruta del juego
+
+**Optimizer.bat:**
+- Aplica optimizaciones a Elden Ring
+- Debe iniciarse simultáneamente con el juego
+- Solo optimiza el juego, no lo inicia
 
 ### Instalación
 
@@ -186,6 +203,11 @@ Elden Ring Optimized (ERO) è uno script che regola le impostazioni del processo
 - Supporto per file di avvio singolo (`Start_Convergence.bat`)
 - Rilevamento e salvataggio automatico del percorso di gioco
 
+**Optimizer.bat:**
+- Applica ottimizzazioni a Elden Ring
+- Deve essere avviato simultaneamente con il gioco
+- Ottimizza solo il gioco, non lo avvia
+
 ### Installazione
 
 #### Per versioni non Steam:
@@ -230,6 +252,11 @@ Elden Ring Optimized (ERO) é um script que ajusta as configurações do process
 - Otimizado para o mod The Convergence
 - Suporte a arquivo único de inicialização (`Start_Convergence.bat`)
 - Detecção e salvamento automático do caminho do jogo
+
+**Optimizer.bat:**
+- Aplica otimizações ao Elden Ring
+- Deve ser executado simultaneamente com o jogo
+- Apenas otimiza o jogo, não o inicia
 
 ### Instalação
 
@@ -276,6 +303,11 @@ Elden Ring Optimized (ERO) ist ein Skript, das die Prozesseinstellungen des Spie
 - Unterstützung für einzelne Startdatei (`Start_Convergence.bat`)
 - Automatische Spielpfaderkennung und Speicherung
 
+**Optimizer.bat:**
+- Wendet Optimierungen auf Elden Ring an
+- Muss gleichzeitig mit dem Spiel gestartet werden
+- Optimiert nur das Spiel, startet es nicht
+
 ### Installation
 
 #### Für Nicht-Steam Versionen:
@@ -321,6 +353,11 @@ Elden Ring Optimized (ERO) は、ゲームのパフォーマンスを向上さ�
 - 単一起動ファイル (`Start_Convergence.bat`) をサポート
 - ゲームパスの自動検出と保存
 
+**Optimizer.bat:**
+- Elden Ringに最適化を適用
+- ゲームと同時に起動する必要があります
+- ゲームを最適化のみ、起動しません
+
 ### インストール方法
 
 #### Steam以外のバージョンの場合：
@@ -365,6 +402,11 @@ Elden Ring Optimized (ERO) 是一个可调整游戏进程设置以提升性能�
 - 针对 The Convergence 模组优化
 - 支持单启动文件 (`Start_Convergence.bat`)
 - 自动游戏路径检测和保存
+
+**Optimizer.bat:**
+- 对 Elden Ring 应用优化
+- 必须与游戏同时启动
+- 仅优化游戏，不启动游戏
 
 ### 安装方法
 
