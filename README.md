@@ -58,9 +58,7 @@ Elden Ring Optimized (ERO) is a script that adjusts the game's process settings 
 - Must be launched simultaneously with the game
 - Only optimizes the game, does not launch it
 
-### Installation
-
-#### For Non-Steam Versions:
+#### Installation
 1. Place the appropriate .bat file in the game's root folder
 2. Always launch the game using the ERO script
 
@@ -108,9 +106,7 @@ Elden Ring Optimized (ERO) - это скрипт, который настраи�
 - Надо запускать одновременно с игрой
 - Только оптимизирует игру, не запускает
 
-### Установка
-
-#### Для версии не из Steam:
+#### Установка
 1. Поместите соответствующий .bat файл в корневую папку игры
 2. Запускайте игру только через ERO скрипт
 
@@ -208,9 +204,7 @@ Elden Ring Optimized (ERO) è uno script che regola le impostazioni del processo
 - Deve essere avviato simultaneamente con il gioco
 - Ottimizza solo il gioco, non lo avvia
 
-### Installazione
-
-#### Per versioni non Steam:
+#### Installazione
 1. Inserisci il file .bat appropriato nella cartella principale del gioco
 2. Avvia il gioco solo tramite lo script ERO
 
@@ -258,9 +252,7 @@ Elden Ring Optimized (ERO) é um script que ajusta as configurações do process
 - Deve ser executado simultaneamente com o jogo
 - Apenas otimiza o jogo, não o inicia
 
-### Instalação
-
-#### Para versões não Steam:
+#### Instalação
 1. Coloque o arquivo .bat apropriado na pasta raiz do jogo
 2. Inicie o jogo apenas via script ERO
 
@@ -308,9 +300,7 @@ Elden Ring Optimized (ERO) ist ein Skript, das die Prozesseinstellungen des Spie
 - Muss gleichzeitig mit dem Spiel gestartet werden
 - Optimiert nur das Spiel, startet es nicht
 
-### Installation
-
-#### Für Nicht-Steam Versionen:
+#### Installation
 1. Platziere die entsprechende .bat-Datei im Stammordner des Spiels
 2. Starte das Spiel immer über das ERO-Skript
 
@@ -358,9 +348,7 @@ Elden Ring Optimized (ERO) は、ゲームのパフォーマンスを向上さ�
 - ゲームと同時に起動する必要があります
 - ゲームを最適化のみ、起動しません
 
-### インストール方法
-
-#### Steam以外のバージョンの場合：
+#### インストール方法
 1. 適切な.batファイルをゲームのルートフォルダに置きます
 2. EROスクリプト経由でのみゲームを起動してください
 
@@ -408,9 +396,7 @@ Elden Ring Optimized (ERO) 是一个可调整游戏进程设置以提升性能�
 - 必须与游戏同时启动
 - 仅优化游戏，不启动游戏
 
-### 安装方法
-
-#### 非 Steam 版本安装方法：
+#### 安装方法
 1. 将相应的 .bat 文件放入游戏的根文件夹
 2. 仅通过 ERO 脚本启动游戏
 
