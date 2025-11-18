@@ -154,9 +154,7 @@ Elden Ring Optimized (ERO) es un script que ajusta la configuración del proceso
 - Debe iniciarse simultáneamente con el juego
 - Solo optimiza el juego, no lo inicia
 
-### Instalación
-
-#### Para versiones no de Steam:
+#### Instalación
 1. Coloca el archivo .bat apropiado en la carpeta raíz del juego
 2. Inicia el juego solo mediante el script ERO
 
