@@ -1,6 +1,7 @@
 # **ERO - ELDEN RING Optimized**
 
-![Image alt](https://media.discordapp.net/attachments/709386714682228776/1441902551388786698/Group_19.png?ex=69237be5&is=69222a65&hm=e22628ad996d1023b896538146160131973cf4b7ce2c3baf3df4c8eca1f69648&=&format=webp&quality=lossless&width=1237&height=696)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a334363-dd96-4428-8bd6-9a70e5bbc9f8" />
+
 
 Performance improvement and screen tearing elimination script
 
